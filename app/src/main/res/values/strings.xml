@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchViewActionBar</string>
+    <string name="search_result" />
+    <string name="menu_search" />
+    <string name="action_settings" />
+    <string name="search_hint" />
+</resources>
